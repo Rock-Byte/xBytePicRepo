@@ -1,2 +1,2 @@
 # xBytePicRepo
-save images use PicGo 
+Upload my pictures using picgo as a note reference
